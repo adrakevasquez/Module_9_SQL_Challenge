@@ -2,12 +2,12 @@
 
 For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform data modeling, data engineering, and data analysis, respectively.
 
-Data Modeling
+Data Modeling:
 
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables.
 
 
-Data Engineering
+Data Engineering:
 
 Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
 
@@ -18,7 +18,7 @@ Be sure to create the tables in the correct order to handle the foreign keys.
 Import each CSV file into its corresponding SQL table.
 
 
-Data Analysis
+Data Analysis:
 
 1. List the employee number, last name, first name, sex, and salary of each employee.
 2. List the first name, last name, and hire date for the employees who were hired in 1986.
